@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Youtube
+- 🔭 I’m currently working on ... [Youtube](https://www.youtube.com/channel/UCSssI94CghpvriZbM5uD5Bg)
 - 🌱 I’m currently learning ... Golang and Flutter
 - 👯 I’m looking to collaborate on ...  Flutter
 - 🤔 I’m looking for help with ... AWS
